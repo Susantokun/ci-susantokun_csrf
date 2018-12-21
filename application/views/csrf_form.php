@@ -16,9 +16,9 @@
 </style>
 
 <body>
-	<h1 class="ui center aligned header">Cross-Site Request Forgery (CSRF) Test | Susantokun</h1>
-
 	<div class="ui container">
+		<h1 class="ui center aligned header">Cross-Site Request Forgery (CSRF) Test | Susantokun</h1>
+
 		<?php echo $this->session->flashdata('message'); ?>
 		<div class="ui two column grid">
 			<div class="column">
